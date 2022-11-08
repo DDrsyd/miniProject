@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Detail</name>
+   <tag></tag>
+   <elementGuidId>1a5349f3-1547-4f85-9710-f5200778780d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-beli.v-btn.v-btn--outlined.theme--light.v-size--small.primary--text > span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Detail' or . = 'Detail')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>12db6442-cd08-406d-918b-24c64b860f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>10428a1a-e13c-44e4-9eb3-be32f28b13af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>7bce27ba-d59b-4e3d-8693-87d1e149eb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;13&quot;)/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions d-block&quot;]/div[@class=&quot;mt-3&quot;]/button[@class=&quot;button-beli v-btn v-btn--outlined theme--light v-size--small primary--text&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>f05d1766-d095-463a-821d-48a0e69849de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='13']/div/div[3]/div[2]/button/span</value>
+      <webElementGuid>278a626a-3fbb-4ca2-b87c-34a0ba454e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli'])[1]/preceding::span[3]</value>
+      <webElementGuid>8cbdcf8d-0038-4a3d-b716-feddad607833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sony PS5'])[2]/preceding::span[4]</value>
+      <webElementGuid>f2594ef4-fca2-43e2-973a-35ce1cca6870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detail']/parent::*</value>
+      <webElementGuid>3369a624-92c9-41b7-89a8-a45ad786150b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>3a3d0e1f-5887-4550-a002-bb94b4e5f020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>215443ea-97ad-4693-9040-65879f0eef7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
